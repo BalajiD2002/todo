@@ -1,0 +1,15 @@
+*{
+    align-items: center;
+}
+input{
+    height: 35px;
+    width: 20%;
+}
+button{
+    height: 40px;
+    width: 10%;
+    background-color: rgb(49, 181, 204);
+}
+body{
+    color: violet;
+}
